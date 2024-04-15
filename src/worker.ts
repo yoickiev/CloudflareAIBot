@@ -4,7 +4,7 @@ import {
 
 export interface Env {
 	AI: any;
-	TG_BOT_TOKEN: string;
+	TG_BOT_TOKEN: 5713654623:AAGzjqiQ80F1neZKfR0Hkg8ymAc8ivlsT7c;
 }
 
 export default {
